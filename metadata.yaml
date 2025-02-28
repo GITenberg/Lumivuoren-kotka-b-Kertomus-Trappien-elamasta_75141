@@ -5,12 +5,17 @@ contributor:
     agent_name: Hurmalainen, Ida
     gutenberg_agent_id: '57837'
     url: http://www.gutenberg.org/2009/agents/57837
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grundmann, Paul
     gutenberg_agent_id: '57895'
     url: http://www.gutenberg.org/2009/agents/57895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75141#Lumivuoren-kotka-b-Kertomus-Trappien-elamasta
 gutenberg_issued: '2025-01-29'
 gutenberg_type: Text
 identifiers:
